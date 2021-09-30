@@ -1,0 +1,8 @@
+>You'll have $100.00 to start and this will reset when you go back to the Main Menu.
+ 
+>If none of the words match you lose the amount of your bet.
+
+>If 2 of the words match you win twice the amount of your bet.
+
+>If all 3 of the words match you win three times the amount of your bet.
+
